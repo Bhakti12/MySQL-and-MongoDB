@@ -1,0 +1,14 @@
+select * from city where population > 100000 and CountryCode="USA";
+
+select name from city where population>120000 and countrycode='usa';
+
+select * from city
+
+select * from city where id=1661;
+
+select * from city where countrycode='jpn';
+
+subquery : 
+select s.name, g.grade, s.marks from students s INNER JOIN grades g on s.marks>=g.min_mark and s.marks<=g.max_mark where g.grade>=8 order by grade desc,name asc;
+select null, g.grade, s.marks from students s INNER JOIN grades g on s.marks>=g.min_mark and s.marks<=g.max_mark where g.grade<8 order by g.grade desc, s.marks asc;
+
