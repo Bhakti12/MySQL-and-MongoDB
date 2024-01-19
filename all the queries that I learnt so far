@@ -12,3 +12,16 @@ subquery :
 select s.name, g.grade, s.marks from students s INNER JOIN grades g on s.marks>=g.min_mark and s.marks<=g.max_mark where g.grade>=8 order by grade desc,name asc;
 select null, g.grade, s.marks from students s INNER JOIN grades g on s.marks>=g.min_mark and s.marks<=g.max_mark where g.grade<8 order by g.grade desc, s.marks asc;
 
+https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=solved
+
+what learning new : 
+
+right(x) : extract characters from string from starting of right.
+for example : 
+SELECT RIGHT('SQL Tutorial', 3) AS ExtractString;
+it extract 3 characters from a string (starting from right)
+
+left(y) : The LEFT() function extracts a number of characters from a string (starting from left).
+for example : 
+SELECT LEFT('SQL Tutorial', 3) AS ExtractString;
+Extract 3 characters from a string (starting from left)
