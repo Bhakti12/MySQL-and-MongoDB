@@ -9,3 +9,7 @@ deep analysis of poulate and lookup :
 we all know that populate is part of mongoose and lookup is part of mongodb,
 but below is some different story that beyond your imagination.
 https://medium.com/cameoeng/mongodb-lookups-and-populates-an-unexpected-journey-940e08e36a94
+
+some of the mongodb aggragation solutions : 
+
+https://www.w3resource.com/mongodb-exercises/
