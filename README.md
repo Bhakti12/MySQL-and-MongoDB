@@ -13,3 +13,7 @@ https://medium.com/cameoeng/mongodb-lookups-and-populates-an-unexpected-journey-
 some of the mongodb aggragation solutions : 
 
 https://www.w3resource.com/mongodb-exercises/
+
+some of the javascript basics that you should know : 
+
+https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
