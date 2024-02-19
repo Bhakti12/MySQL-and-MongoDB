@@ -17,3 +17,6 @@ https://www.w3resource.com/mongodb-exercises/
 some of the javascript basics that you should know : 
 
 https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
+
+some of the best javascript repository on github for learning : 
+https://javascript.plainenglish.io/top-javascript-github-repositories-for-you-79b4a20cc0b
